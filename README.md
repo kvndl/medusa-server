@@ -4,5 +4,5 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa'd Silly Goose'
+  Medusa'd Silly Goose
 </h1>
