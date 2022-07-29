@@ -1,8 +1,8 @@
 {
-  "name": "medusa-starter-default",
-  "version": "0.0.1",
-  "description": "A starter for Medusa projects.",
-  "author": "Sebastian Rindom <skrindom@gmail.com>",
+  "name": "medusa-server",
+  "version": "1.0.0",
+  "description": "A Medusa'd Silly Goose",
+  "author": "Noah Schepers <admin@noahschepers.com>",
   "license": "MIT",
   "scripts": {
     "seed": "medusa seed -f ./data/seed.json",
@@ -19,13 +19,7 @@
     "medusa-payment-stripe": "^1.1.41",
     "typeorm": "^0.2.36"
   },
-  "repository": "https://github.com/medusajs/medusa-starter-default.git",
-  "keywords": [
-    "sqlite",
-    "ecommerce",
-    "headless",
-    "medusa"
-  ],
+  "repository": "https://github.com/sch3p/medusa-server.git",
   "devDependencies": {
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.14.3",
